@@ -1,6 +1,3 @@
 /Users/alneama/Desktop/download.jpg
 
 
-
- git config --global user.email "h.alneamah@gmail.com"
-  git config --global user.name "Haya Alneama"
